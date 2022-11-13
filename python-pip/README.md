@@ -1,8 +1,8 @@
 # PIP Package
 ## Instructions
 1. Replace all <Package_Name> with the desired package name.
-2. Create an account https://pypi.org/
-3. Follow Steps Bellow
+2. Create an account on https://pypi.org/
+3. Follow Steps Below
 ```bash
 # Prerequisities
 sudo apt install twine -y
